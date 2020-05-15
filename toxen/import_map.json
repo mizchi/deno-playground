@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "react": "https://cdn.pika.dev/react"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "deno.enable": true,
+  "deno.import_map": "./toxen/import_map.json"
+}
